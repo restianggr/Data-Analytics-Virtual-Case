@@ -107,7 +107,7 @@ Tableau: Data visualizing
 
 ![Diversity & Inclusion](https://github.com/restianggr/Data-Analytics-Virtual-Case/blob/main/Customer%20Retention/Dashboard%201%20(1).png)
 
-*[View the live dashboard here](https://public.tableau.com/views/CustomerRetention_17059060782300/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)*
+*View the live dashboard [here](https://public.tableau.com/views/CustomerRetention_17059060782300/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)*
 
 ### Statistical Findings
 
